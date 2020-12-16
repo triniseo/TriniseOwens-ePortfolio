@@ -1,0 +1,18 @@
+h1{color: aliceblue;  display: block;
+  margin: 60;
+text-align: center;
+}
+p{color: aliceblue;
+  display: block;
+  margin: 60;
+  text-align: center;
+  word-break: 30px;
+}
+body{background: #1D0737;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
